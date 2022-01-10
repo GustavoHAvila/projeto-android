@@ -49,7 +49,7 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
-    min-width: 250px;
+    min-width: none;
 }
 
 header > h1 {
@@ -94,7 +94,7 @@ nav > a:hover {
 }
 
 main {
-    min-width: 250px;
+    min-width: none;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
